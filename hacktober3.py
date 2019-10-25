@@ -4,7 +4,7 @@ import random
 min = 1
 max = 6
 
-roll_again = "yes"
+roll_again = "no"
 
 while roll_again == "yes" or roll_again == "y":
     print "Rolling the dices..."
